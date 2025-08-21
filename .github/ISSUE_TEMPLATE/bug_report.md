@@ -18,4 +18,4 @@ Una descripción clara del error.
 Explica qué esperabas que ocurriera.
 
 **Capturas**
-Si aplica, añade capturas de pantalla o no.
+Si aplica, añade capturas de pantalla o no o si.
