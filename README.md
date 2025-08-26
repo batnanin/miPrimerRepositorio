@@ -12,6 +12,6 @@ cambios desde mi rama loccal llamda developer01
 hey there!
 testing my repo
 el de hoy 
-cambio para registar mi actividad
+cambio para registar mi actividad de hoy jsjs
 
 
