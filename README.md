@@ -13,6 +13,6 @@ hey there!
 testing my repo
 el de hoy 
 cambio para registar mi actividad de hoy jsjs
-kinea de texto añadida desde vs code
-
+linea de texto añadida desde vs code
+ correcion de ortografia
 
