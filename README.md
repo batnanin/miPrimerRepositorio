@@ -14,5 +14,4 @@ testing my repo
 el de hoy 
 cambio para registar mi actividad de hoy jsjs
 linea de texto añadida desde vs code
- correcion de ortografia
-
+ correcion de ortografia, aqui tambien
